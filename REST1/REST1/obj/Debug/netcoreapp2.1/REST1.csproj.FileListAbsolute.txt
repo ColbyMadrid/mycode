@@ -1,0 +1,17 @@
+C:\Users\colby\source\repos\REST1\REST1\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\colby\source\repos\REST1\REST1\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\colby\source\repos\REST1\REST1\bin\Debug\netcoreapp2.1\REST1.deps.json
+C:\Users\colby\source\repos\REST1\REST1\bin\Debug\netcoreapp2.1\REST1.runtimeconfig.json
+C:\Users\colby\source\repos\REST1\REST1\bin\Debug\netcoreapp2.1\REST1.runtimeconfig.dev.json
+C:\Users\colby\source\repos\REST1\REST1\bin\Debug\netcoreapp2.1\REST1.dll
+C:\Users\colby\source\repos\REST1\REST1\bin\Debug\netcoreapp2.1\REST1.pdb
+C:\Users\colby\source\repos\REST1\REST1\obj\Debug\netcoreapp2.1\REST1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colby\source\repos\REST1\REST1\obj\Debug\netcoreapp2.1\REST1.AssemblyInfoInputs.cache
+C:\Users\colby\source\repos\REST1\REST1\obj\Debug\netcoreapp2.1\REST1.AssemblyInfo.cs
+C:\Users\colby\source\repos\REST1\REST1\obj\Debug\netcoreapp2.1\REST1.csproj.CoreCompileInputs.cache
+C:\Users\colby\source\repos\REST1\REST1\obj\Debug\netcoreapp2.1\REST1.RazorAssemblyInfo.cache
+C:\Users\colby\source\repos\REST1\REST1\obj\Debug\netcoreapp2.1\REST1.RazorAssemblyInfo.cs
+C:\Users\colby\source\repos\REST1\REST1\obj\Debug\netcoreapp2.1\REST1.RazorTargetAssemblyInfo.cache
+C:\Users\colby\source\repos\REST1\REST1\obj\Debug\netcoreapp2.1\REST1.dll
+C:\Users\colby\source\repos\REST1\REST1\obj\Debug\netcoreapp2.1\REST1.pdb
+C:\Users\colby\source\repos\REST1\REST1\obj\Debug\netcoreapp2.1\REST1.genruntimeconfig.cache
