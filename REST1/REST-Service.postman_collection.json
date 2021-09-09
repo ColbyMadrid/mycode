@@ -1,0 +1,120 @@
+{
+	"info": {
+		"_postman_id": "5ba8ccf2-7661-44ca-acba-1d16a0c7b151",
+		"name": "REST-Service",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "GET Contacts",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{ContactServer}}/api/contacts",
+					"host": [
+						"{{ContactServer}}"
+					],
+					"path": [
+						"api",
+						"contacts"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GET Contacts SPECIFIC",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{ContactServer}}/api/contacts/22",
+					"host": [
+						"{{ContactServer}}"
+					],
+					"path": [
+						"api",
+						"contacts",
+						"22"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "POST Contacts",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"Id\": 82\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{ContactServer}}/api/contacts",
+					"host": [
+						"{{ContactServer}}"
+					],
+					"path": [
+						"api",
+						"contacts"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "DELETE Contacts SPECIFIC",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "{{ContactServer}}/api/contacts/103",
+					"host": [
+						"{{ContactServer}}"
+					],
+					"path": [
+						"api",
+						"contacts",
+						"103"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "PUT Contact",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"Id\": 82,\r\n    \"Name\" : \"kate-updated\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{ContactServer}}/api/contacts/101",
+					"host": [
+						"{{ContactServer}}"
+					],
+					"path": [
+						"api",
+						"contacts",
+						"101"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
